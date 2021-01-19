@@ -16,6 +16,7 @@
 + 😄 Passionate about creating software and web content that serves the community and everyone!
 
 <div style='center'>Hi</div>
+
 ---
 __Find our more on my website__
 
