@@ -15,7 +15,7 @@
 + 💜 Interests: I am into home improvements and building cool things with my hands like wooden and resin lamps.
 + 😄 Passionate about creating software and web content that serves the community and everyone!
 
-<div align='center'>Hi</div>
+<div align='center'>
 
 ---
 __Find our more on my website__
@@ -23,3 +23,5 @@ __Find our more on my website__
 __[www.PawelJaskolski.com](https://pawelpavo.github.io/Pawel_Site_4/#/Pawel_Site_4/about)__ 
 
 ---
+
+</div>
