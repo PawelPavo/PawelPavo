@@ -3,7 +3,7 @@
 ### I am Pawel Jaskolski
 
 ``` I am an avid problem solver. I believe this quality is what makes me an excellent web developer.```
-
+<p style='color:red'>This is some red text.</p>
 
 
 <!--
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - Developed back-end random barcode generator (3 million uniques in under 30 seconds with 5% repeat rate) for a POS system that included generated CSV formatted     file for download.
 -->
 
-```css
-   background: red;
+```
+background-color: red;
 ```
