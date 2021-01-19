@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+### I am Pawel Jaskolski
+
+``` I am an avid problem solver. I believe this quality is what makes me an excellent web developer.```
+
+
 
 <!--
 **PawelPavo/PawelPavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,3 +18,7 @@ Here are some ideas to get you started:
 - Developed back-end CRON operations for Heroku servers.
 - Developed back-end random barcode generator (3 million uniques in under 30 seconds with 5% repeat rate) for a POS system that included generated CSV formatted     file for download.
 -->
+
+```css
+   background: red;
+```
