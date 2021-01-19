@@ -1,3 +1,5 @@
+<div align='center'>
+
 ### Hi, I'm Pawel 👋 🤓 
 
 ---
@@ -5,6 +7,8 @@
 ```I am an avid problem solver. I believe this quality is what makes me an excellent web developer.```
 
 ---
+
+</div>
 
 + 🏢 I'm currently working as a Freelance Software Developer and actively looking for a full-time opportunity...
 + ⚙️ I use daily: Javascript, Typescript, ReactJS, NodeJS, MySQL, Bootstrap and lately Tailwind, plus some more...
