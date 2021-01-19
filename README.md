@@ -3,8 +3,3 @@
 
 [1]: https://en.wikipedia.org/wiki/Fox "Wikipedia: Fox"
 [2]: https://en.wikipedia.org/wiki/Dog "Wikipedia: Dog"
-  
-  
-   .my-link {
-        text-decoration: underline;
-    }
