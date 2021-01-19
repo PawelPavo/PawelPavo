@@ -1,13 +1,5 @@
-<p align="center"># Hi there 👋
-
-### I am Pawel Jaskolski
-
-``` I am an avid problem solver. I believe this quality is what makes me an excellent web developer.```
-<p style='color:red'>This is some red text.</p>
-#fff5b1, $bg-yellow-light
-
-  <img src="https://media-exp1.licdn.com/dms/image/C5616AQGxlEEwH_Q9mg/profile-displaybackgroundimage-shrink_200_800/0/1609886408344?e=1616630400&v=beta&t=UIlICTbsbh9aJOHvIZqP4vSfYL-SDf_JM_UdfPIDeBU" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+<p align="center">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQGxlEEwH_Q9mg/profile-displaybackgroundimage-shrink_200_800/0/1609886408344?e=1616630400&v=beta&t=UIlICTbsbh9aJOHvIZqP4vSfYL-SDf_JM_UdfPIDeBU">
 </p>
 
 <!--
