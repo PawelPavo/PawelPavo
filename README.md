@@ -15,7 +15,7 @@
 + 🌍 I support and volunteer with: WhoGivesASock and XoloBooks...
 + 🌱 Learning more about and studying: Go, Python, Testing environments, and deployment...
 + 💬 Ping me about: job opportunities, web design, mentorship, JaiAlai (the beer .. I know nothing about the sport)
-+ 📫 Reach me asap: pjpavo@gmail.com or 
++ 📫 Reach me asap: pjpavo@gmail.com
 + 💜 Interests: I am into home improvements and building cool things with my hands like wooden and resin lamps.
 + 😄 Passionate about creating software and web content that serves the community and everyone!
 
