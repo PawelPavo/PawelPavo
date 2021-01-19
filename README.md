@@ -16,7 +16,7 @@
 + 😄 Passionate about creating software and web content that serves the community and everyone!
 
 ---
-__Find our more on my website 🤓 __
+__Find our more on my website__
 
 __[www.PawelJaskolski.com](https://pawelpavo.github.io/Pawel_Site_4/#/Pawel_Site_4/about)__ 
 
