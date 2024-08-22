@@ -24,7 +24,7 @@
 ---
 __Find our more on my website__
 
-__[www.PawelJaskolski.com](https://pawelpavo.github.io/Pawel_Site_4/#/Pawel_Site_4/about)__ 
+__[www.PawelJaskolski.com](https://paweljaskolski.com/)__ 
 
 ---
 
